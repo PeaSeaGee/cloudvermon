@@ -1,0 +1,6 @@
+{
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {},
+    "version": 1
+}
